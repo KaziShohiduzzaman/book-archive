@@ -1,0 +1,22 @@
+/* body background color */
+body{
+    background-color:lightyellow;
+}
+.header-bg{
+    background-color:lightpink;
+    padding: 20px;
+}
+/* img height sizing  */
+.img-size {
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+/* for spinner display  */
+#spinner {
+    display: none;
+}
+/* for error section display  */
+#error-field {
+    display: none;
+}
